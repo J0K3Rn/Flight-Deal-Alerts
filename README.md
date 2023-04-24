@@ -14,10 +14,10 @@ Features:
 How to run:
 - Download repository
 - Open downloaded repository with a command line interface
-- Create an account on ![Twilio](https://www.twilio.com/), get your api key, account sid, phone numbers, 
+- Create an account on [Twilio](https://www.twilio.com/), get your api key, account sid, phone numbers, 
 and update `notification_manager.py`
-- Create an account on ![Tequila](https://partners.kiwi.com/), get your api key and update `flight_search.py`
-- Create an account on ![Sheety](https://sheety.co/), get your api key and update `data_manager.py`
+- Create an account on [Tequila](https://partners.kiwi.com/), get your api key and update `flight_search.py`
+- Create an account on [Sheety](https://sheety.co/), get your api key and update `data_manager.py`
 - Create a Google Sheet and setup / give access to Sheety to access
 - Fill out relevant info (See Excel screenshot below for example). There is no need to provide the IATA codes -> 
 the program will do it for you
@@ -28,12 +28,12 @@ the program will do it for you
 
 Program Running Example:
 
-![alt text](https://github.com/J0K3Rn/Flight-Deals-Alert/blob/main/screenshots/output.png?raw=true) 
+![alt text](https://github.com/J0K3Rn/Flight-Deal-Alerts/blob/main/screenshots/output.png?raw=true) 
 
 Google Sheets Example:
 
-![alt text](https://github.com/J0K3Rn/Flight-Deals-Alert/blob/main/screenshots/excel_sheet.png?raw=true) 
+![alt text](https://github.com/J0K3Rn/Flight-Deal-Alerts/blob/main/screenshots/excel_sheet.png?raw=true) 
 
 Google Flight Price Prediction:
 
-![alt text](https://github.com/J0K3Rn/Flight-Deals-Alert/blob/main/screenshots/google_flights.png?raw=true) 
+![alt text](https://github.com/J0K3Rn/Flight-Deal-Alerts/blob/main/screenshots/google_flights.png?raw=true) 
