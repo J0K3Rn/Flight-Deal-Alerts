@@ -6,6 +6,7 @@ location is Airport IAH in Houston, TX
 Features:
 - Uses Sheety to read destination ideas and update IATA codes
 - Uses Tequila to search for flights
+- Uses Twilio to send out an automated SMS
 - Search time frame is from tomorrow to 6 months
 - Specify the maximum price wanted in the Google Sheets
 - Sends out a SMS if a flight is below the maximum expected price
